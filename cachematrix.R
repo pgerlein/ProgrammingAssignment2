@@ -1,7 +1,5 @@
-##I must assume that the matrix supplied is always invertible (so, by definition, it is always a square one)
-
-##This programme will create an special matrix which will be stored with his inverse (cache memory), therefore,
-##it won't be necessary to recompute the inverse everytime we need it.
+##This programme will create an special matrix which will be stored with his inverse (cache memory), therefore, it won't 
+##be necessary to recompute the inverse everytime we need it. Assume that the matrix supplied is invertible (then is square). 
 
 
 ##makeCacheMatrix will store the matrix and its inverse (a closure)
